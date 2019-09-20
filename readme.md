@@ -1,5 +1,5 @@
 # Programming Challenge
-Taken by: Brent (Chenming) Yu
+Taken by: Chenming Yu
 
 These programming challenges are used as a portion of the interview process.
 
