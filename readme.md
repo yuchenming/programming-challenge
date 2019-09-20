@@ -8,7 +8,7 @@ These programming challenges are used as a portion of the interview process.
 ## How to run the code
 I used Java to complete the challenges and I uploaded three java files in each problem folder. You can run these files by following steps:
 1. Open any Java IDE (I implemented by Eclipse)
-2. create a package named qlik
+2. Create a Package named qlik
 3. Move my java files in the qlik package
 4. Run the java code
 
