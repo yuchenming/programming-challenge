@@ -6,7 +6,7 @@ These programming challenges are used as a portion of the interview process.
 **Note:** There are no trick questions, however there are some ways to go above and beyond the strict requirements of the question that can speak to the creativity of the candidate.
 
 ## How to run the code
-I used java to complete the challenges and I uploaded three java files in each problem folder. You can run these files by following steps:
+I used Java to complete the challenges and I uploaded three java files in each problem folder. You can run these files by following steps:
 1. Open any Java IDE (I implemented by Eclipse)
 2. create a package named qlik
 3. Move my java files in the qlik package
